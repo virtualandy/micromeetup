@@ -1,6 +1,13 @@
 {
     "name": "bizarro-urls",
     "profile": "micromeetup",
-    "regions": ["us-east-1"]
+    "regions": ["us-east-1"],
+    "stages": {
+      "staging": {
+        "domain": "staging.worthlessidea.stream"
+      },
+      "production": {
+        "domain": "worthlessidea.stream"
+      }
+    }
 }
-  
