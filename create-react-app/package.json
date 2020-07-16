@@ -9,7 +9,7 @@
     "react": "latest",
     "react-dom": "latest",
     "react-scripts": "latest",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "meow": "3.7.0",
     "random-seed": "0.3.0",
     "syllable": "2.0.0"
